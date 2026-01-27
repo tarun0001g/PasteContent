@@ -1,3 +1,22 @@
+PasteContent – React Text & Code Snippet Sharing App
+
+A modern and responsive web application built with React.js for quickly pasting, saving, and sharing text or code snippets. This app allows users to create and store pastes with unique links, making it easy to share content with others. The interface is clean and simple, providing an intuitive user experience. The project is designed following component-based architecture using React Hooks for efficient state management and performance.
+
+🚀 Key Features
+
+📋 Paste and save text or code snippets instantly
+
+🔗 Generate unique links for each paste
+
+✨ Responsive user interface
+
+⚛️ Built with React using reusable components
+
+📦 Ready for deployment on Vercel or Netlify
+
+🧠 Technical Summary (For Resume / GitHub README)
+
+PasteApp is a React.js project that enables users to paste and share text or code snippets through generated unique URLs. It uses functional components, React Hooks (useState, useEffect) for state control, and ensures a seamless user experience across devices. The application can be deployed with Vercel for continuous deployment from your GitHub repository.
 
 # Installation
 First we will create vite project with tailwind css : https://tailwindcss.com/docs/installation/using-vite
