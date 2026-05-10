@@ -1,4 +1,3 @@
-````md
 # PasteContent – React Text & Code Snippet Sharing App
 
 PasteContent is a modern and responsive React.js application that allows users to create, save, manage, and share text or code snippets using unique URLs. The project focuses on clean UI design, fast user interactions, reusable React components, and efficient state management using Redux Toolkit.
@@ -15,13 +14,31 @@ The application is designed to simulate a lightweight paste-sharing platform sim
 
 # 📸 Application Preview
 
+## 🏠 Home Page
+
 ![Home Page](screenshots/home.png)
+
+---
+
+## 📚 All Pastes Dashboard
 
 ![Pastes Dashboard](screenshots/pastes.png)
 
+---
+
+## ✏️ Edit Paste Feature
+
 ![Edit Paste](screenshots/edit.png)
 
+---
+
+## 📋 Copy to Clipboard Feature
+
 ![Copy Feature](screenshots/copy.png)
+
+---
+
+## 🔗 Share Paste Feature
 
 ![Share Feature](screenshots/share.png)
 
@@ -109,11 +126,12 @@ src/
 # 🧠 Technical Highlights
 
 ## React Hooks
+
 Used:
 - `useState`
 - `useEffect`
 
-for:
+For:
 - form handling
 - dynamic rendering
 - filtering logic
@@ -122,6 +140,7 @@ for:
 ---
 
 ## Redux Toolkit
+
 Redux Toolkit is used for centralized state management.
 
 Implemented:
@@ -134,9 +153,10 @@ Implemented:
 ---
 
 ## Dynamic Routing
+
 Implemented using `react-router-dom`
 
-Routes:
+### Routes
 
 ```bash
 /               -> Home Page
@@ -147,12 +167,57 @@ Routes:
 ---
 
 ## Clipboard API
-Used browser clipboard API for quick copy functionality.
+
+Used browser Clipboard API for quick copy functionality.
 
 ---
 
 ## Share API
+
 Integrated native browser sharing functionality for easy paste sharing.
+
+---
+
+# ⚙️ Installation & Setup
+
+## Clone Repository
+
+```bash
+git clone https://github.com/tarun0001g/PasteContent.git
+```
+
+---
+
+## Navigate Into Project Directory
+
+```bash
+cd PasteContent
+```
+
+---
+
+## Install Dependencies
+
+```bash
+npm install
+```
+
+---
+
+## Run Development Server
+
+```bash
+npm run dev
+```
+
+---
+
+# 📦 Packages Used
+
+```bash
+npm install react-router-dom
+npm install @reduxjs/toolkit react-redux
+```
 
 ---
 
@@ -195,15 +260,6 @@ This project helped in understanding:
 
 ---
 
-# 📦 Packages Used
-
-```bash
-npm install react-router-dom
-npm install @reduxjs/toolkit react-redux
-```
-
----
-
 # 🖥️ Screenshots Folder Structure
 
 ```bash
@@ -222,12 +278,11 @@ screenshots/
 
 **Tarun Makavana**
 
-- GitHub:(https://github.com/tarun0001g)
-- LinkedIn: www.linkedin.com/in/tarun-makavana-52601427a
+- GitHub: https://github.com/tarun0001g
+- LinkedIn: https://www.linkedin.com/in/tarun-makavana-52601427a
 
 ---
 
 # ⭐ Support
 
 If you liked this project, consider giving it a ⭐ on GitHub.
-````
