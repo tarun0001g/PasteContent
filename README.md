@@ -58,6 +58,36 @@ src/
 │   ├── Pastes.jsx
 │   └── ViewPaste.jsx
 │
+
+# 📸 Application Screenshots
+
+## 🏠 Home Page
+
+![Home Page](./screenshots/home.png)
+
+---
+
+## 📚 Pastes Dashboard
+
+![Pastes Dashboard](./screenshots/pastes.png)
+
+---
+
+## ✏️ Edit Paste
+
+![Edit Paste](./screenshots/edit.png)
+
+---
+
+## 📋 Copy Feature
+
+![Copy Feature](./screenshots/copy.png)
+
+---
+
+## 🔗 Share Feature
+
+![Share Feature](./screenshots/share.png)
 ├── redux/
 │   ├── store.js
 │   └── pasteSlice.js
