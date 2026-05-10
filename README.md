@@ -15,31 +15,13 @@ The application is designed to simulate a lightweight paste-sharing platform sim
 
 # 📸 Application Preview
 
-## 🏠 Create Paste Page
-
 ![Home Page](screenshots/home.png)
-
----
-
-## 📚 All Pastes Dashboard
 
 ![Pastes Dashboard](screenshots/pastes.png)
 
----
-
-## ✏️ Edit Paste Feature
-
 ![Edit Paste](screenshots/edit.png)
 
----
-
-## 📋 Copy to Clipboard Feature
-
 ![Copy Feature](screenshots/copy.png)
-
----
-
-## 🔗 Share Paste Feature
 
 ![Share Feature](screenshots/share.png)
 
